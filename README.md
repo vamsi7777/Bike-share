@@ -12,6 +12,8 @@ title: "Bike-Share case study"
 
 #### To analyze and identify trends,the data used is Cyclistic’s historical trip data of past 12 months i.e Divvy trips dataset.
 
+#### Required packages
+lubridate, tidyverse, ggplot2
 
 
 
