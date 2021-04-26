@@ -1,10 +1,4 @@
----
-title: "Bike-Share case study"
----
-
-## How Does a Bike-Share Company Navigate to Speedy Success?
-
-### A clear statement of the business task
+### Task
 
 #### How do annual members and casual riders use Cyclistic bikes differently?
 
